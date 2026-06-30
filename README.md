@@ -1,3 +1,26 @@
+# Python Backend Journey
+
+## 🎯 Цель
+
+Получить первую работу Python Backend Developer.
+
+## 📚 Стек
+
+- Python
+- FastAPI
+- PostgreSQL
+- Docker
+- Redis
+- RabbitMQ
+- Kafka
+
+## 📈 Roadmap
+
+- [ ] Sprint 0
+- [ ] Sprint 1
+- [ ] Sprint 2
+      ...
+
 Задача №1
 
 Установить:
@@ -12,11 +35,11 @@ Docker Desktop. ✅
 
 Задача №2
 
-Создай GitHub-репозиторий.
+Создай GitHub-репозиторий. ✅
 
 Например:
 
-python-backend-journey
+python-backend-journey ✅
 
 Пока пустой.
 
@@ -24,11 +47,11 @@ python-backend-journey
 
 Задача №3
 
-Создай структуру.
+Создай структуру. ✅
 
 python-backend-journey/
 
-README.md
-notes/
-tasks/
-backend/
+README.md ✅
+notes/ ✅
+tasks/ ✅
+backend/ ✅
